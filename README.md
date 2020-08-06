@@ -13,6 +13,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Add your Github profile Readme](https://medium.com/@josue.brigido1/add-your-github-profile-readme-2030d2d5f841?source=rss-301e05252378------2)
 - [Avoid N + 1 problem in Rails](https://medium.com/@josue.brigido1/avoid-n-1-problem-in-rails-b49dedbe5500?source=rss-301e05252378------2)
 - [Grid vs. Flexbox: a useless battle](https://medium.com/@josue.brigido1/grid-vs-flexbox-a-useless-battle-1e7b6576a471?source=rss-301e05252378------2)
 <!-- BLOG-POST-LIST:END -->
